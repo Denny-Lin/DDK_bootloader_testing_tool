@@ -6,7 +6,7 @@ This is an idea.
 * Simulate bootloader by eliminating hardware and using substituted function with abstract architecture. 
 <br><br/>
 
-## All the thinking are following bellow,
+## All the thinking are following bellow
 1. We need a sample bootloader of c code.
 2. Make sure all the functoin are correct and can be compiled.
 3. Focus on the funcion if it calls something with registers.
