@@ -3,7 +3,7 @@ This is an idea.
 <br><br/>
 
 ## Features
-* Simulate bootloader by eliminating hardware and using substituted function with abstract architecture. 
+* Simulate bootloader by eliminating hardwares and using substituted functions with abstract architecture. 
 <br><br/>
 
 ## All the thinking are following bellow
