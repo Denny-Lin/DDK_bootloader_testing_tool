@@ -1,7 +1,7 @@
 # DDK_bootloader_testing_tool
-<br><br/>
 * Simulate bootloader by eliminating hardware and using substituted function with abstract architecture. 
 <br><br/>
+
 ## All the thinking are following bellow,
 1. We need a sample bootloader of c code.
 2. Make sure all the functoin are correct and can be compiled.
