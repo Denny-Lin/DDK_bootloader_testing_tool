@@ -1,4 +1,5 @@
 # DDK_bootloader_testing_tool
+This is an idea.
 <br><br/>
 
 ## Features
