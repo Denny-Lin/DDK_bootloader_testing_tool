@@ -6,6 +6,14 @@ This is an idea.
 * Simulate bootloader by eliminating hardwares and using substituted functions with abstract architecture. 
 <br><br/>
 
+## Platforms
+* windows, Linux 
+<br><br/>
+
+## Languages
+* C, C++
+<br><br/>
+
 ## All the thinking is following bellow
 1. We need a sample bootloader of c code.
 2. Make sure all the functoin are correct and can be compiled.
